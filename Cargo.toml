@@ -1,0 +1,18 @@
+[package]
+name = "skirt"
+description = "sync but sinplocks"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/abbiecnt/skirt"
+keywords = ["sync"]
+categories = ["no-std"]
+
+[features]
+std = []
+nightly = []
+
+[lints.clippy]
+pedantic = "warn"
+nursery = "warn"
+cargo = "deny"
