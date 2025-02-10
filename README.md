@@ -1,5 +1,5 @@
 # Skirt
-<picture><img align="right" src="./.github/assets/skirt.svg" /></picture>
+<picture><img align="right" width="18%" src="./.github/assets/margot.png" /></picture>
 
 **Synchronization primitives that rely on spin-locking mechanisms.**
 
